@@ -1,4 +1,8 @@
- I am a research scientist at <b>Facebook AI (FAIR)</b> in NYC and broadly study foundational topics and applications in <b>machine learning</b> (sometimes deep) and <b>optimization</b> (sometimes convex), including reinforcement learning, computer vision, language, statistics, and theory. I have a Ph.D. from <b>Carnegie Mellon University</b> and was advised by [Zico Kolter](http://zicokolter.com/) and supported by an <b>NSF graduate research fellowship.</b> My thesis is on [Differentiable Optimization-Based Modeling for Machine Learning](https://github.com/bamos/thesis). My publications are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=d8gdZR4AAAAJ) and my open source contributions can be found on [my Github profile](https://github.com/bamos). I have also worked on <b>reinforcement learning</b> during an internship with [Nando de Freitas](https://www.cs.ubc.ca/~nando/) and [Misha Denil](http://mdenil.com/) at <b>DeepMind</b> in 2017 and on vision with [Vladlen Koltun](http://vladlen.info) at <b>Intel Labs</b> in 2018. <br><br>
+Boyo is a applied data scientist at year Ph.D. student in UC Merced working with Ming-Hsuan Yang. His research mainly focuses on generative modeling and other random things. Before then, he received his BS from NTHU in 2018, and worked as a research assistant for two facinating years in Vision and Science Lab in NTHU, working with Min Sun (NTHU), Hwann-Tzong Chen (NTHU), Wei-Chen Chiu (NCTU), Da-Cheng Juan (Google) and Wei Wei (Google).
+
+
+
+I am a research scientist at <b>Facebook AI (FAIR)</b> in NYC and broadly study foundational topics and applications in <b>machine learning</b> (sometimes deep) and <b>optimization</b> (sometimes convex), including reinforcement learning, computer vision, language, statistics, and theory. I have a Ph.D. from <b>Carnegie Mellon University</b> and was advised by [Zico Kolter](http://zicokolter.com/) and supported by an <b>NSF graduate research fellowship.</b> My thesis is on [Differentiable Optimization-Based Modeling for Machine Learning](https://github.com/bamos/thesis). My publications are available below and on [my Google Scholar page](https://scholar.google.com/citations?user=d8gdZR4AAAAJ) and my open source contributions can be found on [my Github profile](https://github.com/bamos). I have also worked on <b>reinforcement learning</b> during an internship with [Nando de Freitas](https://www.cs.ubc.ca/~nando/) and [Misha Denil](http://mdenil.com/) at <b>DeepMind</b> in 2017 and on vision with [Vladlen Koltun](http://vladlen.info) at <b>Intel Labs</b> in 2018. <br><br>
 
 
 ## <i class="fa fa-chevron-right"></i> Education
@@ -42,54 +46,54 @@
 
 ## <i class="fa fa-chevron-right"></i> Experience
 <table class="table table-hover">
-<tr>
-  <td class='col-md-3'>May 2019 - Present</td>
-  <td><strong>Facebook AI</strong>, Research Scientist</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>June 2018 - Sept 2018</td>
-  <td><strong>Intel Labs</strong>, Research Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2017 - Oct 2017</td>
-  <td><strong>Google DeepMind</strong>, Research Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2014 - Aug 2014</td>
-  <td><strong>Adobe Research</strong>, Data Scientist Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Dec 2013 - Jan 2014</td>
-  <td><strong>Snowplow Analytics</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2013 - Aug 2013</td>
-  <td><strong>Qualcomm</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2012 - Aug 2012</td>
-  <td><strong>Phoenix Integration</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Jan 2011 - Aug 2011</td>
-  <td><strong>Sunapsys</strong>, Network Administrator Intern</td>
-</tr>
-<tr>
-</tr>
+  <tr>
+    <td class='col-md-3'>May 2019 - Present</td>
+    <td><strong>Facebook AI</strong>, Research Scientist</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>June 2018 - Sept 2018</td>
+    <td><strong>Intel Labs</strong>, Research Intern</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>May 2017 - Oct 2017</td>
+    <td><strong>Google DeepMind</strong>, Research Intern</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>May 2014 - Aug 2014</td>
+    <td><strong>Adobe Research</strong>, Data Scientist Intern</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>Dec 2013 - Jan 2014</td>
+    <td><strong>Snowplow Analytics</strong>, Software Engineer Intern</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>May 2013 - Aug 2013</td>
+    <td><strong>Qualcomm</strong>, Software Engineer Intern</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>May 2012 - Aug 2012</td>
+    <td><strong>Phoenix Integration</strong>, Software Engineer Intern</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>Jan 2011 - Aug 2011</td>
+    <td><strong>Sunapsys</strong>, Network Administrator Intern</td>
+  </tr>
+  <tr>
+  </tr>
 </table>
 
 
