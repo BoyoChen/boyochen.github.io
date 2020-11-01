@@ -117,7 +117,7 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
 
 <table class="table table-hover">
   <tr>
-    <td class='col-md-2'>Proficient</td>
+    <td class='col-md-3'>Proficient</td>
     <td>
       Python programming.<br>
       Machine learning algorithms and applications.<br>
@@ -125,7 +125,7 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
     </td>
   </tr>
   <tr>
-    <td class='col-md-2'>Intermediate</td>
+    <td class='col-md-3'>Intermediate</td>
     <td>
       C/C++ programing.<br>
       Document-oriented databases, such as MongDB.<br>
@@ -134,7 +134,7 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
     </td>
   </tr>
   <tr>
-    <td class='col-md-2'>With Primary Knowledge</td>
+    <td class='col-md-3'>With Primary Knowledge</td>
     <td>
       CICD: Jenkins, Docker, Kubernates.<br>
       Relation-oriented databases such as PostgreSQL and MySQL.<br>
