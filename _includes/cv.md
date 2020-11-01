@@ -46,7 +46,7 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
 
 ## <i class="fa fa-chevron-right"></i> Publications
 
-<table class="table table-hover">
+<!-- <table class="table table-hover">
   <tr>
     <td class="col-md-3"><a href='https://arxiv.org/abs/1909.12830' target='_blank'><img src="images/publications/amos2020differentiable.png"/></a> </td>
     <td>
@@ -75,10 +75,11 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
       </div>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
+
 <table class="table table-hover">
 <tr>
   <td class='col-md-1'>2016 fall</td>
@@ -100,6 +101,7 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
 
 
 ## <i class="fa fa-chevron-right"></i> Skills
+
 <table class="table table-hover">
 <tr>
   <td class='col-md-2'>Proficient</td>
