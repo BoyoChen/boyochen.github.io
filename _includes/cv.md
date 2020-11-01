@@ -81,36 +81,35 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
 </table>
 
 
-
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 
 <table class="table table-hover">
   <tr>
-    <td class='col-md-3'>2016 fall</td>
+    <td class='col-md-2'>2016 fall</td>
     <td>
-      <strong>Machine Learning</strong>, TA<br>
-      About 100 students
+      <strong>Machine Learning Foundations</strong>, TA<br>
+      About 100 students, [course link](https://www.csie.ntu.edu.tw/~htlin/course/mlfound16fall)
     </td>
   </tr>
   <tr>
-    <td class='col-md-3'>2017 spring</td>
+    <td class='col-md-2'>2017 spring</td>
     <td>
-      <strong>Machine Learning</strong>, TA<br>
-      About 130 students
+      <strong>Machine Learning Techniques</strong>, TA<br>
+      About 130 students, [course link](https://www.csie.ntu.edu.tw/~htlin/course/mltech17spring)
     </td>
   </tr>
   <tr>
-    <td class='col-md-3'>2017 fall</td>
+    <td class='col-md-2'>2017 fall</td>
     <td>
-      <strong>Machine Learning</strong>, TA<br>
-      About 260 students
+      <strong>Machine Learning Foundations</strong>, TA<br>
+      About 260 students, [course link](https://www.csie.ntu.edu.tw/~htlin/course/mlfound17fall)
     </td>
   </tr>
   <tr>
-    <td class='col-md-3'>2018 spring</td>
+    <td class='col-md-2'>2018 spring</td>
     <td>
-      <strong>Machine Learning</strong>, TA<br>
-      About 200 students
+      <strong>Machine Learning Techniques</strong>, TA<br>
+      About 200 students, [course link](https://www.csie.ntu.edu.tw/~htlin/course/mltech18spring)
     </td>
   </tr>
 </table>
@@ -142,6 +141,24 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
       CICD: Jenkins, Docker, Kubernates.<br>
       Relation-oriented databases such as PostgreSQL and MySQL.<br>
       Object-oriented programming using Java, Android.
+    </td>
+  </tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Life
+
+<table class="table table-hover">
+  <tr>
+    <td class='col-md-5'>Married my wife on July 27, 2018.</td>
+    <td>
+      <img src="images/marriage.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td class='col-md-5'>We have two cats, one daughter.</td>
+    <td>
+      <img src="images/family.png"/>
     </td>
   </tr>
 </table>
