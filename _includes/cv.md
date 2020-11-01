@@ -48,32 +48,35 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3"><a href='https://arxiv.org/abs/1909.12830' target='_blank'><img src="images/publications/amos2020differentiable.png"/></a> </td>
-    <td>
-        <strong>The Differentiable Cross-Entropy Method</strong><br>
-        <strong>B. Amos</strong> and D. Yarats<br>
-        ICML 2020<br>
-      [<a href='javascript:;'
-          onclick='$("#abs_amos2020differentiable").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/1909.12830' target='_blank'>pdf</a>] <br>
-      <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1">
-      We study the Cross-Entropy Method (CEM) for the non-convex
-      optimization of a continuous and parameterized
-      objective function and introduce a differentiable
-      variant (DCEM) that enables us to differentiate the
-      output of CEM with respect to the objective
-      function's parameters. In the machine learning
-      setting this brings CEM inside of the end-to-end
-      learning pipeline where this has otherwise been
-      impossible. We show applications in a synthetic
-      energy-based structured prediction task and in
-      non-convex continuous control. In the control
-      setting we show on the simulated cheetah and walker
-      tasks that we can embed their optimal action
-      sequences with DCEM and then use policy optimization
-      to fine-tune components of the controller as a step
-      towards combining model-based and model-free RL.
-      </div>
-    </td>
+  <td class="col-md-3"><a href='https://arxiv.org/abs/1909.12830' target='_blank'><img src="images/publications/amos2020differentiable.png"/></a> </td>
+  <td>
+      <strong>The Differentiable Cross-Entropy Method</strong><br>
+      <strong>B. Amos</strong> and D. Yarats<br>
+      ICML 2020<br>
+      
+  [<a href='javascript:;'
+      onclick='$("#abs_amos2020differentiable").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/1909.12830' target='_blank'>pdf</a>] <br>
+      
+  <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1">
+  We study the Cross-Entropy Method (CEM) for the non-convex
+  optimization of a continuous and parameterized
+  objective function and introduce a differentiable
+  variant (DCEM) that enables us to differentiate the
+  output of CEM with respect to the objective
+  function's parameters. In the machine learning
+  setting this brings CEM inside of the end-to-end
+  learning pipeline where this has otherwise been
+  impossible. We show applications in a synthetic
+  energy-based structured prediction task and in
+  non-convex continuous control. In the control
+  setting we show on the simulated cheetah and walker
+  tasks that we can embed their optimal action
+  sequences with DCEM and then use policy optimization
+  to fine-tune components of the controller as a step
+  towards combining model-based and model-free RL.
+  </div>
+
+  </td>
   </tr>
 </table>
 
