@@ -7,8 +7,7 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
   <tr>
     <td class="col-md-3">September 2016 - July 2018</td>
     <td>
-        <strong>M.S. in Computer Science and Information Engineering</strong>
-          (0.00/0.00)
+        <strong>M.S.</strong> in Computer Science and Information Engineering
         <br>
       National Taiwan University, Taipei, Taiwan
     </td>
@@ -16,8 +15,7 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
   <tr>
     <td class="col-md-3">September 2012 - July 2016</td>
     <td>
-        <strong>B.S. in Computer Science and Information Engineering</strong>
-          (0.00/0.00)
+        <strong>B.S.</strong> in Computer Science and Information Engineering
         <br>
       National Taiwan University, Taipei, Taiwan
     </td>
@@ -150,16 +148,16 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
 
 <table class="table table-hover">
   <tr>
-    <td class='col-md-5'>I married my wife on July 27, 2018.</td>
-    <td class='col-md-2'>
+    <td class='col-md-3'>I married my wife on July 27, 2018.</td>
+    <td class='col-md-1'>
       <a href="/images/wedding_large.png">
         <img src="images/wedding.png"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td class='col-md-5'>We have two cats, one daughter.</td>
-    <td class='col-md-2'>
+    <td class='col-md-3'>We have two cats, one daughter.</td>
+    <td class='col-md-1'>
       <a href="/images/family.png">
         <img src="images/family.png"/>
       </a>
