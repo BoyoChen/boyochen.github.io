@@ -10,3 +10,5 @@ title: Boyo Chen
 ---
 
 Last updated on {% include last-updated.txt %}
+
+Forked from [Brandon Amos](http://bamos.github.io)
