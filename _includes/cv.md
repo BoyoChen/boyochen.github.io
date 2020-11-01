@@ -150,15 +150,19 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
 
 <table class="table table-hover">
   <tr>
-    <td class='col-md-5'>Married my wife on July 27, 2018.</td>
-    <td class='col-md-5'>
-      <img src="images/marriage.png"/>
+    <td class='col-md-5'>I married my wife on July 27, 2018.</td>
+    <td class='col-md-3'>
+      <a href="/images/marriage.png">
+        <img src="images/marriage.png"/>
+      </a>
     </td>
   </tr>
   <tr>
     <td class='col-md-5'>We have two cats, one daughter.</td>
-    <td class='col-md-5'>
-      <img src="images/family.png"/>
+    <td class='col-md-3'>
+      <a href="/images/family.png">
+        <img src="images/family.png"/>
+      </a>
     </td>
   </tr>
 </table>
