@@ -28,17 +28,17 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
 ## <i class="fa fa-chevron-right"></i> Working Experience
 <table class="table table-hover">
   <tr>
-    <td class='col-md-3'>January 2019 - November 2019</td>
+    <td class='col-md-5'>January 2019 - November 2019</td>
     <td>
       <strong>Appier, Taipei, Taiwan</strong>, Software Engineer
     </td>
   </tr>
   <tr>
-    <td class='col-md-3'>September 2018 - December 2018</td>
+    <td class='col-md-5'>September 2018 - December 2018</td>
     <td>Military Service in Taiwan.</td>
   </tr>
   <tr>
-    <td class='col-md-3'>July 2017 - August 2017</td>
+    <td class='col-md-5'>July 2017 - August 2017</td>
     <td><strong>Yahoo, Taipei, Taiwan</strong>, Software Engineer Intern</td>
   </tr>
 </table>
@@ -83,20 +83,32 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
 
 <table class="table table-hover">
   <tr>
-    <td class='col-md-1'>2016 fall</td>
-    <td><strong>Machine Learning</strong> About 100 students, TA</td>
+    <td class='col-md-3'>2016 fall</td>
+    <td>
+      <strong>Machine Learning</strong>, TA<br>
+      About 100 students
+    </td>
   </tr>
   <tr>
-    <td class='col-md-1'>2017 spring</td>
-    <td><strong>Machine Learning</strong> About 130 students, TA</td>
+    <td class='col-md-3'>2017 spring</td>
+    <td>
+      <strong>Machine Learning</strong>, TA<br>
+      About 130 students
+    </td>
   </tr>
   <tr>
-    <td class='col-md-1'>2017 fall</td>
-    <td><strong>Machine Learning</strong> About 260 students, TA</td>
+    <td class='col-md-3'>2017 fall</td>
+    <td>
+      <strong>Machine Learning</strong>, TA<br>
+      About 260 students
+    </td>
   </tr>
   <tr>
-    <td class='col-md-1'>2018 spring</td>
-    <td><strong>Machine Learning</strong> About 200 students, TA</td>
+    <td class='col-md-3'>2018 spring</td>
+    <td>
+      <strong>Machine Learning</strong>, TA<br>
+      About 200 students
+    </td>
   </tr>
 </table>
 
@@ -106,7 +118,7 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
 <table class="table table-hover">
   <tr>
     <td class='col-md-2'>Proficient</td>
-    <td markdown="1">
+    <td>
       Python programming.<br>
       Machine learning algorithms and applications.<br>
       Data-intensive applications.
@@ -114,7 +126,7 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
   </tr>
   <tr>
     <td class='col-md-2'>Intermediate</td>
-    <td markdown="1">
+    <td>
       C/C++ programing.<br>
       Document-oriented databases, such as MongDB.<br>
       Build and maintain Restful API and GraphQL API.<br>
@@ -123,7 +135,7 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
   </tr>
   <tr>
     <td class='col-md-2'>With Primary Knowledge</td>
-    <td markdown="1">
+    <td>
       CICD: Jenkins, Docker, Kubernates.<br>
       Relation-oriented databases such as PostgreSQL and MySQL.<br>
       Object-oriented programming using Java, Android.
