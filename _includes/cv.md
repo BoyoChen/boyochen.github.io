@@ -88,28 +88,28 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
     <td class='col-md-2'>2016 fall</td>
     <td>
       <strong>Machine Learning Foundations</strong>, TA<br>
-      About 100 students, [course link](https://www.csie.ntu.edu.tw/~htlin/course/mlfound16fall)
+      About 100 students, <a href="https://www.csie.ntu.edu.tw/~htlin/course/mlfound16fall">course link</a>
     </td>
   </tr>
   <tr>
     <td class='col-md-2'>2017 spring</td>
     <td>
       <strong>Machine Learning Techniques</strong>, TA<br>
-      About 130 students, [course link](https://www.csie.ntu.edu.tw/~htlin/course/mltech17spring)
+      About 130 students, <a href="https://www.csie.ntu.edu.tw/~htlin/course/mltech17spring">course link</a>
     </td>
   </tr>
   <tr>
     <td class='col-md-2'>2017 fall</td>
     <td>
       <strong>Machine Learning Foundations</strong>, TA<br>
-      About 260 students, [course link](https://www.csie.ntu.edu.tw/~htlin/course/mlfound17fall)
+      About 260 students, <a href="https://www.csie.ntu.edu.tw/~htlin/course/mlfound17fall">course link</a>
     </td>
   </tr>
   <tr>
     <td class='col-md-2'>2018 spring</td>
     <td>
       <strong>Machine Learning Techniques</strong>, TA<br>
-      About 200 students, [course link](https://www.csie.ntu.edu.tw/~htlin/course/mltech18spring)
+      About 200 students, <a href="https://www.csie.ntu.edu.tw/~htlin/course/mltech18spring">course link</a>
     </td>
   </tr>
 </table>
@@ -150,16 +150,14 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
 
 <table class="table table-hover">
   <tr>
-    <td class='col-md-5'>I married my wife on July 27, 2018.</td>
     <td class='col-md-3'>
+      I married my wife on July 27, 2018.<br>
       <a href="/images/wedding_large.png">
         <img src="images/wedding.png"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td class='col-md-5'>We have two cats, one daughter.</td>
     <td class='col-md-3'>
+      We have two cats, one daughter.<br>
       <a href="/images/family.png">
         <img src="images/family.png"/>
       </a>
