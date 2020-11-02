@@ -94,7 +94,24 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
   <div id="abs_chen2021real" style="text-align: justify; display: none" markdown="1">
   Analyzing big geophysical observational data collected by multiple advanced sensors on various satellite platforms promotes our understanding of the geophysical system. For instance, convolutional neural networks (CNN) have achieved great success in estimating tropical cyclone (TC) intensity based on satellite data with fixed temporal frequency (e.g., 3 h). However, to achieve more timely (under 30 min) and accurate TC intensity estimates, a deep learning model is demanded to handle temporally-heterogeneous satellite observations. Specifically, infrared (IR1) and water vapor (WV) images are available under every 15 minutes, while passive microwave rain rate (PMW) is available for about every 3 hours. Meanwhile, the visible (VIS) channel is severely affected by noise and sunlight intensity, making it difficult to be utilized. Therefore, we propose a novel framework that combines generative adversarial network (GAN) with CNN. The model utilizes all data, including VIS and PMW information, during the training phase and eventually uses only the high-frequent IR1 and WV data for providing intensity estimates during the predicting phase. Experimental results demonstrate that the hybrid GAN-CNN framework achieves comparable precision to the state-of-the-art models, while possessing the capability of increasing the maximum estimation frequency from 3 hours to less than 15 minutes.
   </div>
-  Due to the limitation of satellites, the previous work of estimating Tropical Cyclone(TC) intensity can only obtain data once every 3 hours. In this work, we use Generative Adversarial Networks to handle missing data. As a result, the frequency for estimating the TC intensity improved from once per <strong>3 hours</strong> to once per <strong>15 minutes</strong>.
+  Due to the limitation of satellites, the previous work of estimating Tropical Cyclone(TC) intensity can only obtain data once every 3 hours. In this work, we use <strong>Generative Adversarial Networks</strong> to handle missing data. As a result, the frequency for estimating the TC intensity improved from once per <strong>3 hours</strong> to once per <strong>15 minutes</strong>.
+  </td>
+  </tr>
+
+  <tr>
+  <td class="col-md-3"><img src="images/publications/chen2021cnn.gif"/></td>
+  <td>
+      <strong>CNN Profiler on Polar Coordinate Images for Tropical Cyclone Structure Analysis</strong><br>
+      <strong>Boyo Chen</strong>, Buo-Fu Chen, Chun-Min Hsiao<br>
+      Under review of AAAI 2021<br>
+      
+  [<a href='javascript:;'
+      onclick='$("#abs_chen2021cnn").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/2010.15158' target='_blank'>pdf</a>] <br>
+      
+  <div id="abs_chen2021cnn" style="text-align: justify; display: none" markdown="1">
+  Convolutional neural networks (CNN) have achieved great success in analyzing tropical cyclones (TC) with satellite images in several tasks, such as TC intensity estimation. In contrast, TC structure, which is conventionally described by a few parameters estimated subjectively by meteorology specialists, is still hard to be profiled objectively and routinely. This study applies CNN on satellite images to create the entire TC structure profiles, covering all the structural parameters. By utilizing the meteorological domain knowledge to construct TC wind profiles based on historical structure parameters, we provide valuable labels for training in our newly released benchmark dataset. With such a dataset, we hope to attract more attention to this crucial issue among data scientists. Meanwhile, a baseline is established with a specialized convolutional model operating on polar-coordinates. We discovered that it is more feasible and physically reasonable to extract structural information on polar-coordinates, instead of Cartesian coordinates, according to a TC's rotational and spiral natures. Experimental results on the released benchmark dataset verified the robustness of the proposed model and demonstrated the potential for applying deep learning techniques for this barely developed yet important topic.
+  </div>
+  Besides the intensity, the size of a Tropical Cyclone(TC) is another critical factor for disaster managements. We aim to set up a benchmark for estimating TC size objectively and routinely. According to a TC's rotational and spiral natures, a specialized convolutional model operating on polar-coordinates, instead of Cartesian coordinates, is proposed.
   </td>
   </tr>
 </table>
