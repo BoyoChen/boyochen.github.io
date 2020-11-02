@@ -46,34 +46,20 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
 
 <table class="table table-hover">
   <tr>
-  <td class="col-md-3"><a href='https://arxiv.org/abs/1909.12830' target='_blank'><img src="images/publications/amos2020differentiable.png"/></a> </td>
+  <td class="col-md-3"><img src="images/publications/chen2018rotation.png"/></td>
   <td>
-      <strong>The Differentiable Cross-Entropy Method</strong><br>
-      <strong>B. Amos</strong> and D. Yarats<br>
-      ICML 2020<br>
+      <strong>Rotation-blended CNNs on a new open dataset for tropical cyclone image-to-intensity regression</strong><br>
+      <strong>Boyo Chen</strong>, Buo-Fu Chen, Hsuan-Tien Lin<br>
+      KDD 2018<br>
       
   [<a href='javascript:;'
-      onclick='$("#abs_amos2020differentiable").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/1909.12830' target='_blank'>pdf</a>] <br>
+      onclick='$("#abs_amos2020differentiable").toggle()'>abs</a>] [<a href='https://www.csie.ntu.edu.tw/~htlin/paper/doc/kdd18tcir.pdf' target='_blank'>pdf</a>] <br>
       
   <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1">
-  We study the Cross-Entropy Method (CEM) for the non-convex
-  optimization of a continuous and parameterized
-  objective function and introduce a differentiable
-  variant (DCEM) that enables us to differentiate the
-  output of CEM with respect to the objective
-  function's parameters. In the machine learning
-  setting this brings CEM inside of the end-to-end
-  learning pipeline where this has otherwise been
-  impossible. We show applications in a synthetic
-  energy-based structured prediction task and in
-  non-convex continuous control. In the control
-  setting we show on the simulated cheetah and walker
-  tasks that we can embed their optimal action
-  sequences with DCEM and then use policy optimization
-  to fine-tune components of the controller as a step
-  towards combining model-based and model-free RL.
+  Tropical cyclone (TC) is a type of severe weather systems that occur in tropical regions. Accurate estimation of TC intensity is crucial for disaster management. Moreover, the intensity estimation task is the key to understand and forecast the behavior of TCs better. Recently, the task has begun to attract attention from not only meteorologists but also data scientists. Nevertheless, it is hard to stimulate joint research between both types of scholars without a benchmark dataset to work on together. In this work, we release a such a benchmark dataset, which is a new open dataset collected from satellite remote sensing, for the TC-image-to-intensity estimation task. We also propose a novel model to solve this task based on the convolutional neural network (CNN). We discover that the usual CNN, which is mature for object recognition, requires several modifications when being used for the intensity estimation task. Furthermore, we combine the domain knowledge of meteorologists, such as the rotation- invariance of TCs, into our model design to reach better performance. Experimental results on the released benchmark dataset verify that the proposed model is among the most accurate models that can be used for TC intensity estimation, while being relatively more stable across all situations. The results demonstrate the potential of applying data science for meteorology study.
   </div>
 
+  In this work, we apply <strong>specialized</strong> CNN to tropical cyclone intensity regression tasks, set up a remarkable benchmark for disaster management of tropical cyclones. The proposed framework is used for forecasting in <a href="https://www.cwb.gov.tw/eng/">Central Weather Bureau, Taiwan</a>.
   </td>
   </tr>
 </table>
