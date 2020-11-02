@@ -53,13 +53,31 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
       KDD 2018<br>
       
   [<a href='javascript:;'
-      onclick='$("#abs_amos2020differentiable").toggle()'>abs</a>] [<a href='https://www.csie.ntu.edu.tw/~htlin/paper/doc/kdd18tcir.pdf' target='_blank'>pdf</a>] <br>
+      onclick='$("#abs_chen2018rotation").toggle()'>abs</a>] [<a href='https://www.csie.ntu.edu.tw/~htlin/paper/doc/kdd18tcir.pdf' target='_blank'>pdf</a>] <br>
       
-  <div id="abs_amos2020differentiable" style="text-align: justify; display: none" markdown="1">
+  <div id="abs_chen2018rotation" style="text-align: justify; display: none" markdown="1">
   Tropical cyclone (TC) is a type of severe weather systems that occur in tropical regions. Accurate estimation of TC intensity is crucial for disaster management. Moreover, the intensity estimation task is the key to understand and forecast the behavior of TCs better. Recently, the task has begun to attract attention from not only meteorologists but also data scientists. Nevertheless, it is hard to stimulate joint research between both types of scholars without a benchmark dataset to work on together. In this work, we release a such a benchmark dataset, which is a new open dataset collected from satellite remote sensing, for the TC-image-to-intensity estimation task. We also propose a novel model to solve this task based on the convolutional neural network (CNN). We discover that the usual CNN, which is mature for object recognition, requires several modifications when being used for the intensity estimation task. Furthermore, we combine the domain knowledge of meteorologists, such as the rotation- invariance of TCs, into our model design to reach better performance. Experimental results on the released benchmark dataset verify that the proposed model is among the most accurate models that can be used for TC intensity estimation, while being relatively more stable across all situations. The results demonstrate the potential of applying data science for meteorology study.
   </div>
 
   In this work, we apply <strong>specialized</strong> CNN to tropical cyclone intensity regression tasks, set up a remarkable benchmark for disaster management of tropical cyclones. The proposed framework is used for forecasting in <a href="https://www.cwb.gov.tw/eng/">Central Weather Bureau, Taiwan</a>.
+  </td>
+  </tr>
+
+  <tr>
+  <td class="col-md-3"><img src="images/publications/chen2019estimating.png"/></td>
+  <td>
+      <strong>Estimating Tropical Cyclone Intensity by Satellite Imagery Utilizing Convolutional Neural Networks</strong><br>
+      Buo-Fu Chen, <strong>Boyo Chen</strong>, Hsuan-Tien Lin<br>, Russell L. Elsberry
+      KDD 2018<br>
+      
+  [<a href='javascript:;'
+      onclick='$("#abs_chen2019estimating").toggle()'>abs</a>] [<a href='https://journals.ametsoc.org/waf/article/34/2/447/291' target='_blank'>pdf</a>] <br>
+      
+  <div id="abs_chen2019estimating" style="text-align: justify; display: none" markdown="1">
+  Accurately estimating tropical cyclone (TC) intensity is one of the most critical steps in TC forecasting and disaster warning/management. For over 40 years, the Dvorak technique (and several improved versions) has been applied for estimating TC intensity by forecasters worldwide. However, the operational Dvorak techniques primarily used in various agencies have several deficiencies, such as inherent subjectivity leading to inconsistent intensity estimates within various basins. This collaborative study between meteorologists and data scientists has developed a deep-learning model using satellite imagery to estimate TC intensity. The conventional convolutional neural network (CNN), which is a mature technology for object classification, requires several modifications when being used for directly estimating TC intensity (a regression task). Compared to the Dvorak technique, the CNN model proposed here is objective and consistent among various basins; it has been trained with satellite infrared brightness temperature and microwave rain-rate data from 1097 global TCs during 2003–14 and optimized with data from 188 TCs during 2015–16. This paper also introduces an upgraded version that further improves the accuracy by using additional TC information (i.e., basin, day of year, local time, longitude, and latitude) and applying a postsmoothing procedure. An independent testing dataset of 94 global TCs during 2017 has been used to evaluate the model performance. A root-mean-square intensity difference of 8.39 kt (1 kt ≈ 0.51 m s−1) is achieved relative to the best track intensities. For a subset of 482 samples analyzed with reconnaissance observations, a root-mean-square intensity difference of 8.79 kt is achieved.
+  </div>
+
+  In this journal work, we verify and concluded our work in 2018. The report was published by <strong>Weather and Forcasting</strong>, the best journal in the related field.
   </td>
   </tr>
 </table>
