@@ -26,6 +26,12 @@ Boyo is currently working as a research assistant at National Taiwan University,
 ## <i class="fa fa-chevron-right"></i> Working Experience
 <table class="table table-hover">
   <tr>
+    <td class='col-md-5'>December 2019 - current</td>
+    <td>
+      <strong>National Taiwan University</strong>, reasearch assistant
+    </td>
+  </tr>
+  <tr>
     <td class='col-md-5'>January 2019 - November 2019</td>
     <td>
       <strong>Appier</strong>, Taipei, Taiwan, Software Engineer
