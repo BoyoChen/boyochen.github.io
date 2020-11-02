@@ -67,8 +67,8 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
   <td class="col-md-3"><img src="images/publications/chen2019estimating.png"/></td>
   <td>
       <strong>Estimating Tropical Cyclone Intensity by Satellite Imagery Utilizing Convolutional Neural Networks</strong><br>
-      Buo-Fu Chen, <strong>Boyo Chen</strong>, Hsuan-Tien Lin<br>, Russell L. Elsberry
-      KDD 2018<br>
+      Buo-Fu Chen, <strong>Boyo Chen</strong>, Hsuan-Tien Lin, Russell L. Elsberry<br>
+      Weather and Forecasting 34 (2), 447-465<br>
       
   [<a href='javascript:;'
       onclick='$("#abs_chen2019estimating").toggle()'>abs</a>] [<a href='https://journals.ametsoc.org/waf/article/34/2/447/291' target='_blank'>pdf</a>] <br>
@@ -82,11 +82,11 @@ Boyo is currently working as a Research Assistant at National Taiwan University,
   </tr>
 
   <tr>
-  <td class="col-md-3"><img src="images/publications/chen2021real.png"/></td>
+  <td class="col-md-3"><img src="images/publications/chen2021real.gif"/></td>
   <td>
       <strong>Real-time Tropical Cyclone Intensity Estimation by Handling Temporally Heterogeneous Satellite Data</strong><br>
-      <strong>Boyo Chen</strong>, Buo-Fu Chen, Yun-Nung Chen
-      Under review of AAAI2021<br>
+      <strong>Boyo Chen</strong>, Buo-Fu Chen, Yun-Nung Chen<br>
+      Under review of AAAI 2021<br>
       
   [<a href='javascript:;'
       onclick='$("#abs_chen2021real").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/2010.14977' target='_blank'>pdf</a>] <br>
