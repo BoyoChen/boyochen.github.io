@@ -92,7 +92,7 @@ Boyo is currently working as a research assistant at National Taiwan University,
   <td>
       <strong>Real-time Tropical Cyclone Intensity Estimation by Handling Temporally Heterogeneous Satellite Data</strong><br>
       <strong>Boyo Chen</strong>, Buo-Fu Chen, Yun-Nung Chen<br>
-      Under review of AAAI 2021<br>
+      AAAI 2021<br>
       
   [<a href='javascript:;'
       onclick='$("#abs_chen2021real").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/2010.14977' target='_blank'>pdf</a>] <br>
@@ -109,7 +109,7 @@ Boyo is currently working as a research assistant at National Taiwan University,
   <td>
       <strong>CNN Profiler on Polar Coordinate Images for Tropical Cyclone Structure Analysis</strong><br>
       <strong>Boyo Chen</strong>, Buo-Fu Chen, Chun-Min Hsiao<br>
-      Under review of AAAI 2021<br>
+      AAAI 2021<br>
       
   [<a href='javascript:;'
       onclick='$("#abs_chen2021cnn").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/2010.15158' target='_blank'>pdf</a>] <br>
