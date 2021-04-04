@@ -136,9 +136,9 @@ Boyo is a Ph.D. student in University of Tokyo working with [Naoto Yokoya](https
       Ashesh, Buo-Fu Chen, Treng-Shi Huang, <strong>Boyo Chen</strong>, Chia-Tung Chang, Hsuan-Tien Lin<br>
       
   [<a href='javascript:;'
-      onclick='$("#abs_chen2021cnn").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/2102.08175' target='_blank'>pdf</a>] <br>
+      onclick='$("#abs_ashesh2021accurate").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/2102.08175' target='_blank'>pdf</a>] <br>
       
-  <div id="abs_chen2021cnn" style="text-align: justify; display: none" markdown="1">
+  <div id="abs_ashesh2021accurate" style="text-align: justify; display: none" markdown="1">
   Precipitation nowcasting is an important task for weather forecasting. Many recent works aim to predict the high rainfall events more accurately with the help of deep learning techniques, but such events are relatively rare. The rarity is often addressed by formulations that re-weight the rare events. Somehow such a formulation carries a side effect of making "blurry" predictions in low rainfall regions and cannot convince meteorologists to trust its practical usability. We fix the trust issue by introducing a discriminator that encourages the prediction model to generate realistic rain-maps without sacrificing predictive accuracy. Furthermore, we extend the nowcasting time frame from one hour to three hours to further address the needs from meteorologists. The extension is based on consecutive attentions across different hours. We propose a new deep learning model for precipitation nowcasting that includes both the discrimination and attention techniques. The model is examined on a newly-built benchmark dataset that contains both radar data and actual rain data. The benchmark, which will be publicly released, not only establishes the superiority of the proposed model, but also is expected to encourage future research on precipitation nowcasting.
   </div>
   We propose a new deep learning model for precipitation nowcasting that includes both the discrimination and attention techniques. The model is examined on a newly-built benchmark dataset that contains both radar data and actual rain data.
