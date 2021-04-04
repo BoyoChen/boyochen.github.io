@@ -224,7 +224,7 @@ Boyo is a Ph.D. student in University of Tokyo working with [Naoto Yokoya](https
     </td>
   </tr>
   <tr>
-    <td class='col-md-3'>My daughter burn on December 6, 2020.</td>
+    <td class='col-md-3'>My daughter was born on December 6, 2020.</td>
     <td class='col-md-1'>
       <a href="/images/kuri_large.png">
         <img src="images/kuri.png"/>
@@ -232,7 +232,7 @@ Boyo is a Ph.D. student in University of Tokyo working with [Naoto Yokoya](https
     </td>
   </tr>
   <tr>
-    <td class='col-md-3'>We have two cats.</td>
+    <td class='col-md-3'>We have two cats, <a href="https://www.instagram.com/chichibolo_ig/">ChiChi and Bolo</a>.</td>
     <td class='col-md-1'>
       <img src="images/chichi&bolo.png"/>  
     </td>
