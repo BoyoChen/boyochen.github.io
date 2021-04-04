@@ -1,9 +1,17 @@
-Boyo is currently working as a research assistant at National Taiwan University, Taipei. He broadly studies foundational topics in machine learning. His previous researches mainly focus on building up a reliable system for disaster management using computer vision techniques. He received his BS and MS in Computer Science from [National Taiwan University](https://www.csie.ntu.edu.tw/main.php) in 2016 and 2018, respectively, advised by [Hsuan-Tien Lin](https://www.csie.ntu.edu.tw/~htlin/). Before leaving for ph.D., in 2019, he worked at [Appier](https://www.appier.com/) for about one year to acquire experiences in the industry, where he developed a data-intensive API server, handling large-scale data with graphQL.
+Boyo is a Ph.D. student in University of Tokyo working with [Naoto Yokoya](https://naotoyokoya.com). He broadly studies foundational topics in machine learning. His previous researches mainly focus on building up a reliable system for disaster management using computer vision techniques. He received his BS and MS in Computer Science from [National Taiwan University](https://www.csie.ntu.edu.tw/main.php) in 2016 and 2018, respectively, advised by [Hsuan-Tien Lin](https://www.csie.ntu.edu.tw/~htlin/). Before leaving for ph.D., in 2019, he worked at [Appier](https://www.appier.com/) for about one year to acquire experiences in the industry, where he developed a data-intensive API server, handling large-scale data with graphQL.
 
 
 ## <i class="fa fa-chevron-right"></i> Education
 
 <table class="table table-hover">
+  <tr>
+    <td class="col-md-3">April 2021 - present</td>
+    <td>
+        <strong>Ph.D.</strong> in Complexity Science and Engineering
+        <br>
+      Graduate School of Frontier Science, The University of Tokyo, Chiba-ken, Japan
+    </td>
+  </tr>
   <tr>
     <td class="col-md-3">September 2016 - July 2018</td>
     <td>
@@ -26,7 +34,7 @@ Boyo is currently working as a research assistant at National Taiwan University,
 ## <i class="fa fa-chevron-right"></i> Working Experience
 <table class="table table-hover">
   <tr>
-    <td class='col-md-5'>December 2019 - current</td>
+    <td class='col-md-5'>December 2019 - March 2021</td>
     <td>
       <strong>National Taiwan University</strong>, reasearch assistant
     </td>
@@ -118,6 +126,22 @@ Boyo is currently working as a research assistant at National Taiwan University,
   Convolutional neural networks (CNN) have achieved great success in analyzing tropical cyclones (TC) with satellite images in several tasks, such as TC intensity estimation. In contrast, TC structure, which is conventionally described by a few parameters estimated subjectively by meteorology specialists, is still hard to be profiled objectively and routinely. This study applies CNN on satellite images to create the entire TC structure profiles, covering all the structural parameters. By utilizing the meteorological domain knowledge to construct TC wind profiles based on historical structure parameters, we provide valuable labels for training in our newly released benchmark dataset. With such a dataset, we hope to attract more attention to this crucial issue among data scientists. Meanwhile, a baseline is established with a specialized convolutional model operating on polar-coordinates. We discovered that it is more feasible and physically reasonable to extract structural information on polar-coordinates, instead of Cartesian coordinates, according to a TC's rotational and spiral natures. Experimental results on the released benchmark dataset verified the robustness of the proposed model and demonstrated the potential for applying deep learning techniques for this barely developed yet important topic.
   </div>
   Besides the intensity, the <strong>size</strong> of a Tropical Cyclone(TC) is another critical factor for disaster management. We aim to set up a benchmark for objectively and routinely analyzing the TC structure profile, which comprises both intensity and size information. According to a TC's rotational and spiral natures, a specialized convolutional model operating on <strong>polar-coordinates</strong>, instead of <strong>Cartesian coordinates</strong>, is proposed.
+  </td>
+  </tr>
+
+  <tr>
+  <td class="col-md-3"><img src="images/publications/ashesh2021accurate.png"/></td>
+  <td>
+      <strong>Accurate and Clear Precipitation Nowcasting with Consecutive Attention and Rain-map Discrimination</strong><br>
+      Ashesh, Buo-Fu Chen, Treng-Shi Huang, <strong>Boyo Chen</strong>, Chia-Tung Chang, Hsuan-Tien Lin<br>
+      
+  [<a href='javascript:;'
+      onclick='$("#abs_chen2021cnn").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/2102.08175' target='_blank'>pdf</a>] <br>
+      
+  <div id="abs_chen2021cnn" style="text-align: justify; display: none" markdown="1">
+  Precipitation nowcasting is an important task for weather forecasting. Many recent works aim to predict the high rainfall events more accurately with the help of deep learning techniques, but such events are relatively rare. The rarity is often addressed by formulations that re-weight the rare events. Somehow such a formulation carries a side effect of making "blurry" predictions in low rainfall regions and cannot convince meteorologists to trust its practical usability. We fix the trust issue by introducing a discriminator that encourages the prediction model to generate realistic rain-maps without sacrificing predictive accuracy. Furthermore, we extend the nowcasting time frame from one hour to three hours to further address the needs from meteorologists. The extension is based on consecutive attentions across different hours. We propose a new deep learning model for precipitation nowcasting that includes both the discrimination and attention techniques. The model is examined on a newly-built benchmark dataset that contains both radar data and actual rain data. The benchmark, which will be publicly released, not only establishes the superiority of the proposed model, but also is expected to encourage future research on precipitation nowcasting.
+  </div>
+  We propose a new deep learning model for precipitation nowcasting that includes both the discrimination and attention techniques. The model is examined on a newly-built benchmark dataset that contains both radar data and actual rain data.
   </td>
   </tr>
 </table>
