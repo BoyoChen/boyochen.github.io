@@ -9,7 +9,7 @@ Boyo is a Ph.D. student in University of Tokyo working with [Naoto Yokoya](https
     <td>
         <strong>Ph.D.</strong> in Complexity Science and Engineering
         <br>
-      Graduate School of Frontier Science, The University of Tokyo, Chiba-ken, Japan
+      The University of Tokyo, Tokyo, Japan
     </td>
   </tr>
   <tr>
